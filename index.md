@@ -24,7 +24,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 50%;
-    background-position: 0; 
+    background-position: 0% 100%; 
 }
 </style>
 
