@@ -50,3 +50,8 @@ body {
 
 </script>
 
+
+<!-- Amazon Link -->
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B01N7RXZ1X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7RXZ1X&linkCode=as2&tag=trustinhan-20&linkId=5990a56c7b15d203a9705512162b5539">KEEP YOUR TINY HANDS OFF MY HUMAN RIGHTS. GET THE SHIRT.</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=trustinhan-20&l=am2&o=1&a=B01N7RXZ1X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
