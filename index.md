@@ -17,13 +17,13 @@ font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:
 <div class="GeneratedText">YES.</div>
 
 <!-- CSS Code -->
-<style 
+<style>
 
 body { 
     background-image: url('http://i.imgur.com/O9kuhCm.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 0; 
-}>
+}
 </style>
 
