@@ -17,11 +17,13 @@ font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:
 <div class="GeneratedText">YES.</div>
 
 <!-- CSS Code -->
-<style type="text/css" scoped>
-img.GeneratedImage {
-width:600px;height:450px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+<style 
+
+body { 
+    background-image: url('http://i.imgur.com/O9kuhCm.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 </style>
 
-<!-- HTML Code -->
-<img src="http://i.imgur.com/O9kuhCm.png" alt="" class="GeneratedImage">
