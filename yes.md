@@ -1,5 +1,5 @@
 ---
-title: Yes
+title: 
 ---
 
 YES
