@@ -24,6 +24,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 0; 
-}
+}>
 </style>
 
