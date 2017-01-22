@@ -23,7 +23,7 @@ body {
     background-image: url('http://i.imgur.com/O9kuhCm.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 60%;
+    background-size: 120%;
     background-position: 0; 
 }
 </style>
