@@ -29,7 +29,7 @@ font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:
 <style>
 
 body { 
-    background-image: url('http://i.imgur.com/2WJrPVR.png');
+    background-image: url('http://i.imgur.com/MwOcVNi.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 50%;
