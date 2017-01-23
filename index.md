@@ -53,12 +53,23 @@ body {
 
 <!-- Amazon Link -->
 
-<style>
-a:link    {color:black; background-color:transparent; text-decoration:none}
-a:visited {color:black; background-color:transparent; text-decoration:none}
-a:hover   {color:black; background-color:transparent; text-decoration:underline}
-a:active  {color:black; background-color:transparent; text-decoration:none}
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+a.GeneratedLink:link {
+font-size:20px;text-decoration:none;color:#000000;background-color:#FFFFFF;text-indent:40%
+}
+a.GeneratedLink:visited {
+color:#000000;
+}
+a.GeneratedLink:hover {
+color:#000000;
+}
+a.GeneratedLink:active {
+color:#000000;
+}
 </style>
 
-<a target="_blank" href="https://www.amazon.com/gp/product/B01N7RXZ1X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7RXZ1X&linkCode=as2&tag=trustinhan-20&linkId=5990a56c7b15d203a9705512162b5539">GET THE SHIRT.</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=trustinhan-20&l=am2&o=1&a=B01N7RXZ1X" width="10" height="10" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- HTML Code -->
+<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B01N7RXZ1X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7RXZ1X&linkCode=as2&tag=trustinhan-20&linkId=5990a56c7b15d203a9705512162b5539" target="_blank"">KEEP YOUR TINY HANDS OFF MY HUMAN RIGHTS. GET THE SHIRT.</a>
 
