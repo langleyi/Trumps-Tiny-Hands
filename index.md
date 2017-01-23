@@ -56,7 +56,7 @@ body {
 <!-- CSS Code -->
 <style type="text/css" scoped>
 a.GeneratedLink:link {
-font-size:20px;text-decoration:none;color:#000000;link-indent:40%;
+font-size:30px;text-decoration:none;color:#000000;text-indent:80%;
 }
 a.GeneratedLink:visited {
 color:#000000;
