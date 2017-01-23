@@ -56,16 +56,16 @@ body {
 <!-- CSS Code -->
 <style type="text/css" scoped>
 a.GeneratedLink:link {
-font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:1em;text-indent:40%;
+font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:1em;text-indent:40%;text-decoration:none;
 }
 a.GeneratedLink:visited {
-color:#000000;
+color:#000000;text-decoration:none;
 }
 a.GeneratedLink:hover {
 color:#000000;text-decoration:underline;
 }
 a.GeneratedLink:active {
-color:#000000;
+color:#000000;text-decoration:none;
 }
 </style>
 
