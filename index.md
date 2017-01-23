@@ -2,9 +2,30 @@
 title: 
 ---
 
+<!-- Amazon Link -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+a.GeneratedLink:link {
+font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:0.2em;text-decoration:none;
+}
+a.GeneratedLink:visited {
+color:#000000;text-decoration:none;
+}
+a.GeneratedLink:hover {
+color:#000000;text-decoration:underline;
+}
+a.GeneratedLink:active {
+color:#000000;text-decoration:none;
+}
+</style>
+
+<!-- HTML Code -->
+<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B01NCXOM91/ref=as_li_tl?ie=UTF8&tag=trustinhan-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NCXOM91&linkId=5b86c17c19251231fab72b8cadca0c75" target="_blank"> YES.
+</a>
 
 
-<!-- Codes by HTML.am -->
+
 
 <!-- CSS Code -->
 <style type="text/css" scoped>
@@ -51,25 +72,4 @@ body {
 </script>
 
 
-<!-- Amazon Link -->
-
-<!-- CSS Code -->
-<style type="text/css" scoped>
-a.GeneratedLink:link {
-font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:0.2em;text-decoration:none;
-}
-a.GeneratedLink:visited {
-color:#000000;text-decoration:none;
-}
-a.GeneratedLink:hover {
-color:#000000;text-decoration:underline;
-}
-a.GeneratedLink:active {
-color:#000000;text-decoration:none;
-}
-</style>
-
-<!-- HTML Code -->
-<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B01NCXOM91/ref=as_li_tl?ie=UTF8&tag=trustinhan-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NCXOM91&linkId=5b86c17c19251231fab72b8cadca0c75" target="_blank"> YES.
-</a>
 
