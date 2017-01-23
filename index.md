@@ -24,7 +24,7 @@ color:#000000;text-decoration:none;
 </style>
 
 <!-- HTML Code -->
-<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B01NCXOM91/ref=as_li_tl?ie=UTF8&tag=trustinhan-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NCXOM91&linkId=5b86c17c19251231fab72b8cadca0c75" target="_blank"> YES.
+<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B015L3RBQQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=trustinhan-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B015L3RBQQ&linkId=7881684948f2ba8e89245afa0b0b39e2" target="_blank"> YES.
 </a>
 
 
