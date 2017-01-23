@@ -26,17 +26,6 @@ color:#000000;text-decoration:none;
 
 
 
-
-<!-- CSS Code -->
-<style type="text/css" scoped>
-.GeneratedText {
-font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:1em;text-indent:40%;
-}
-</style>
-
-<!-- HTML Code -->
-<div class="GeneratedText">YES.</div>
-
 <!-- adsense -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
