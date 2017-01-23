@@ -56,7 +56,7 @@ body {
 <!-- CSS Code -->
 <style type="text/css" scoped>
 a.GeneratedLink:link {
-font-size:30px;text-decoration:none;color:#000000;text-indent:80%;
+font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:1em;text-indent:40%;
 }
 a.GeneratedLink:visited {
 color:#000000;
@@ -70,6 +70,6 @@ color:#000000;
 </style>
 
 <!-- HTML Code -->
-<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B01N7RXZ1X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7RXZ1X&linkCode=as2&tag=trustinhan-20&linkId=5990a56c7b15d203a9705512162b5539" target="_blank">  GET THE SHIRT. 
+<a class="GeneratedLink" href="https://www.amazon.com/gp/product/B01NCXOM91/ref=as_li_tl?ie=UTF8&tag=trustinhan-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01NCXOM91&linkId=5b86c17c19251231fab72b8cadca0c75" target="_blank"> YES.
 </a>
 
