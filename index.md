@@ -9,8 +9,6 @@ title:
 <!-- Amazon Link -->
 
 
-
-
 <!-- CSS Code -->
 <style type="text/css" scoped>
 a.GeneratedLink:link {
