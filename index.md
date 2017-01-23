@@ -7,7 +7,7 @@ title:
 <!-- CSS Code -->
 <style type="text/css" scoped>
 a.GeneratedLink:link {
-font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:0.2em;text-decoration:none;text-indent:40%;
+font-family:Helvetica, sans-serif;font-size:8em;font-weight:bold;letter-spacing:0.1em;line-height:1.3em;text-align:right;color:#000000;padding:0.2em;text-decoration:none; text-indent:40;
 }
 a.GeneratedLink:visited {
 color:#000000;text-decoration:none;
